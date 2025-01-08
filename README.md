@@ -1,6 +1,3 @@
-`#ffffff`
-**(forcing light mode on you!)**
-
 # TheCatbox
 A sandbox, that has "cat presents" since I don't know what I'm doing and sure to leave some bombs for the future...
 
